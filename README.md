@@ -16,28 +16,3 @@ Social Media Integration: Connect with the brand through popular social media pl
 Project Structure
 The project consists of the following main files and folders:
 
-index.html: The main HTML file containing the structure and content of the website.
-
-_CSS/styles.css: The CSS file responsible for the styling of the web pages.
-
-_Images: A folder containing all the image assets used in the project, including product images and background images.
-
-Getting Started
-To run or modify the project locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/exotic-essence-beauty.git
-Open the project in Visual Studio Code or any preferred code editor.
-
-Make changes to the HTML and CSS files as desired.
-
-Preview the website by opening index.html in a web browser.
-
-Contributing
-Contributions to Exotic Essence Beauty are welcome! If you have any ideas for improvements or bug fixes, please submit an issue or a pull request.
-
-License
-This project is licensed under the MIT License.
